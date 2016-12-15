@@ -1,0 +1,31 @@
+{
+  "name": "node-mail-server",
+  "version": "1.0.0",
+  "description": "simple mail server using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkateshvangala/node-mail-server.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mail",
+    "server"
+  ],
+  "author": "Venkatesh Kumar V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkateshvangala/node-mail-server/issues"
+  },
+  "homepage": "https://github.com/venkateshvangala/node-mail-server#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "nodemailer": "0.7.1"
+  }
+}
