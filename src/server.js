@@ -9,7 +9,7 @@ var smtpTransport = mailer.createTransport("SMTP",{
     service: "Gmail",
     auth: {
         user: "venkatesh.vangala1989@gmail.com",
-        pass: "Venkat@488"
+        pass: "*******"
     }
 });
 
